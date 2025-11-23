@@ -63,17 +63,30 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
+module kaviya(a,b,c,d,e,f,g,h);
+input a,b;
+output c,d,e,f,g,h;
+assign c = a & b;
+assign d = a | b;
+assign e = a ^ b;
+assign f = ~(a & b);
+assign g = ~(a | b);
+assign h = ~(a ^ b);
+endmodule
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by:kaviya R RegisterNumber: 25017570
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+<img width="1448" height="833" alt="Screenshot 2025-11-23 185304" src="https://github.com/user-attachments/assets/f11e4f06-2828-46a8-8a5c-f1a50b416e20" />
 
 **RTL**
 
 **Result:**
+    Thus the different digital IC's are studied and truthtable for different logic gates are verified.
+
 
 
