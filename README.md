@@ -74,18 +74,26 @@ assign f = ~(a & b);
 assign g = ~(a | b);
 assign h = ~(a ^ b);
 endmodule
+```
 
-
- Developed by:kaviya R RegisterNumber: 25017570
+ ### Developed by:Kaviya R 
+ 
+### RegisterNumber: 25017570
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
-<img width="1448" height="833" alt="Screenshot 2025-11-23 185304" src="https://github.com/user-attachments/assets/f11e4f06-2828-46a8-8a5c-f1a50b416e20" />
+
+<img width="1448" height="833" alt="Screenshot 2025-11-23 185304" src="https://github.com/user-attachments/assets/2c6a4b2d-aca8-45a8-beee-be754edc66b1" />
+
 
 **RTL**
 
+<img width="1896" height="469" alt="Screenshot 2025-11-23 185526" src="https://github.com/user-attachments/assets/7bd1cc9c-7198-4e06-9423-969eb58085c9" />
+
+
 **Result:**
+    
     Thus the different digital IC's are studied and truthtable for different logic gates are verified.
 
 
